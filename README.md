@@ -1,1 +1,1 @@
-# WEB page practice
+# Web page practice
